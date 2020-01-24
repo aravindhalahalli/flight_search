@@ -58,10 +58,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-
-## TODO
-
-1.	The tests have not been included.
-2. 	The flight return trip search results have not been implemented. At present, only one way trip flight schedule is being shown in the results.
-
 # flight_search
