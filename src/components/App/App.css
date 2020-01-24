@@ -1,0 +1,28 @@
+.App {
+  text-align: left;
+  height: 100%;
+  background: url(https://www.etihadbusinessconnect.com/content/dam/eag/glc/shared/visuals/loader/450X450-EY-Loading-spinner.gif) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.App-header {
+  background-color: #222;
+  color: skyblue;
+  /* display: flex; */
+  height: 55px;
+  padding: 0 24px;
+  position: relative;
+  text-align: center;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.Item {
+  display: flex;
+  justify-content: space-between;
+  /* border: 1px solid #ccc; */
+  border: 1px solid skyblue;
+  padding: 10px;
+}
