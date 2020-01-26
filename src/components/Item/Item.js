@@ -6,8 +6,8 @@ let Item = ({ item, children }) => {
   let onClickHandler =  (item) => {
     
     let text = "Origin : "+ item.originCity + "\nDestination : " + item.destCity + "\nDeparture Date : "
-                + item.departureDate + "\t Departuew Time : " + item.deptDateTime;
-    alert("Flight booked successfully :)\n"+ text)
+                + item.departureDate + "\nDepartureTime : " + item.deptDateTime;
+    alert("Flight booked successfully !!Happy Journey :)\n"+ text)
     //event.preventDefault();
   }
   
